@@ -6,6 +6,7 @@ Brawl in Campus is a 2D fighting game made with igraphics.It is a game where the
 ### Platform
 Visual Studio 2013
 ### Installation
+* Download visual studio 2013.
 * Download the project from the github.
 * Open the project in visual stdio 2013.
 * Run the code and enjoy the game.
